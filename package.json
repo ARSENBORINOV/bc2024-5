@@ -1,0 +1,19 @@
+{
+  "name": "bc2024-5",
+  "version": "1.0.0",
+  "description": "API server for notes management",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "commander": "^9.0.0",
+    "express": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  },
+  "author": "Ваше Ім'я",
+  "license": "MIT"
+}
